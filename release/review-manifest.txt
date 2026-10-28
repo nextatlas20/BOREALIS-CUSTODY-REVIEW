@@ -1,0 +1,5 @@
+review_instant=2088-11-03T18:00:00Z
+samples=6
+valid_scans=18
+accepted_transitions=15
+attention_samples=4
