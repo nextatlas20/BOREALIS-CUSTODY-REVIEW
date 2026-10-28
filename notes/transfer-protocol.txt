@@ -1,0 +1,3 @@
+BOREALIS TRANSFER PROTOCOL — sealed reference
+
+Replay eligible scanner rows in chronological custody order. Illegal transitions remain in the audit count but never alter specimen state.
